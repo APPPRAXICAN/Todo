@@ -3,7 +3,7 @@
 ## Table of contents
 
 - [Overview](#overview)
-- [Technologies and Tools](#Technologies_and_Tools)
+- [Technologies and Tools](#Technologies%and%Tools)
 - [Setup and Installation](#Setup_and_Installation)
 - [Visuals](#Visuals)
 - [Author](#author)
