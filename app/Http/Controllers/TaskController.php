@@ -12,7 +12,7 @@ class TaskController extends Controller
      * Display a listing of the resource.
      */
     public function index()
-    {           
+    {   
         return view('home.index',
         ['tasks'=>Task::where('user_id',Auth::user()->id)
         ->where('checked',false)

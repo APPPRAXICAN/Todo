@@ -23,6 +23,6 @@ class SearchController extends Controller
         })
         ->simplePaginate(3);
 
-        return view('home.index', ['tasks' => $tasks]);
+        return view('home.index', ['tasks' => $tasks , 'allBtn'=>true]);
     }
 }
